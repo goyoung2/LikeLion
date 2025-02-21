@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\LikeLion\\LikeLion\\Day1Project12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC091FB-7C1E-4937-9720-C3EEB3B47264}|Day1Project12\\Day1Project12.csproj|i:\\likelion\\likelion\\day1project12\\day1project12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC091FB-7C1E-4937-9720-C3EEB3B47264}|Day1Project12\\Day1Project12.csproj|solutionrelative:day1project12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\LikeLion\\LikeLion\\Day1Project12\\Day1Project12\\Program.cs",
+              "RelativeDocumentMoniker": "Day1Project12\\Program.cs",
+              "ToolTip": "I:\\LikeLion\\LikeLion\\Day1Project12\\Day1Project12\\Program.cs*",
+              "RelativeToolTip": "Day1Project12\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:02:23.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
