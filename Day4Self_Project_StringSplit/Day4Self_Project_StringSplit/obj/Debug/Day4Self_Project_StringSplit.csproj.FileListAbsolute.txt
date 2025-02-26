@@ -1,0 +1,7 @@
+I:\LikeLion\LikeLion\Day4Self_Project_StringSplit\Day4Self_Project_StringSplit\bin\Debug\Day4Self_Project_StringSplit.exe.config
+I:\LikeLion\LikeLion\Day4Self_Project_StringSplit\Day4Self_Project_StringSplit\bin\Debug\Day4Self_Project_StringSplit.exe
+I:\LikeLion\LikeLion\Day4Self_Project_StringSplit\Day4Self_Project_StringSplit\bin\Debug\Day4Self_Project_StringSplit.pdb
+I:\LikeLion\LikeLion\Day4Self_Project_StringSplit\Day4Self_Project_StringSplit\obj\Debug\Day4Self_Project_StringSplit.csproj.AssemblyReference.cache
+I:\LikeLion\LikeLion\Day4Self_Project_StringSplit\Day4Self_Project_StringSplit\obj\Debug\Day4Self_Project_StringSplit.csproj.CoreCompileInputs.cache
+I:\LikeLion\LikeLion\Day4Self_Project_StringSplit\Day4Self_Project_StringSplit\obj\Debug\Day4Self_Project_StringSplit.exe
+I:\LikeLion\LikeLion\Day4Self_Project_StringSplit\Day4Self_Project_StringSplit\obj\Debug\Day4Self_Project_StringSplit.pdb

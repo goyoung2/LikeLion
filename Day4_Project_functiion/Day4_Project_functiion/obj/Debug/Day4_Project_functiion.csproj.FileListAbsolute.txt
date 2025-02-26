@@ -1,0 +1,7 @@
+I:\LikeLion\LikeLion\Day4_Project_functiion\Day4_Project_functiion\bin\Debug\Day4_Project_functiion.exe.config
+I:\LikeLion\LikeLion\Day4_Project_functiion\Day4_Project_functiion\bin\Debug\Day4_Project_functiion.exe
+I:\LikeLion\LikeLion\Day4_Project_functiion\Day4_Project_functiion\bin\Debug\Day4_Project_functiion.pdb
+I:\LikeLion\LikeLion\Day4_Project_functiion\Day4_Project_functiion\obj\Debug\Day4_Project_functiion.csproj.AssemblyReference.cache
+I:\LikeLion\LikeLion\Day4_Project_functiion\Day4_Project_functiion\obj\Debug\Day4_Project_functiion.csproj.CoreCompileInputs.cache
+I:\LikeLion\LikeLion\Day4_Project_functiion\Day4_Project_functiion\obj\Debug\Day4_Project_functiion.exe
+I:\LikeLion\LikeLion\Day4_Project_functiion\Day4_Project_functiion\obj\Debug\Day4_Project_functiion.pdb

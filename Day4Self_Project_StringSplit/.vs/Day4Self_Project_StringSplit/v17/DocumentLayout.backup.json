@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\LikeLion\\LikeLion\\Day4Self_Project_StringSplit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31E63C31-1556-496D-8614-CF05D560EB00}|Day4Self_Project_StringSplit\\Day4Self_Project_StringSplit.csproj|i:\\likelion\\likelion\\day4self_project_stringsplit\\day4self_project_stringsplit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31E63C31-1556-496D-8614-CF05D560EB00}|Day4Self_Project_StringSplit\\Day4Self_Project_StringSplit.csproj|solutionrelative:day4self_project_stringsplit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\LikeLion\\LikeLion\\Day4Self_Project_StringSplit\\Day4Self_Project_StringSplit\\Program.cs",
+              "RelativeDocumentMoniker": "Day4Self_Project_StringSplit\\Program.cs",
+              "ToolTip": "I:\\LikeLion\\LikeLion\\Day4Self_Project_StringSplit\\Day4Self_Project_StringSplit\\Program.cs*",
+              "RelativeToolTip": "Day4Self_Project_StringSplit\\Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvywAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:16:07.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

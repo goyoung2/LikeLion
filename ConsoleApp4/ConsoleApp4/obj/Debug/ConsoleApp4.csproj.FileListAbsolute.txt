@@ -1,0 +1,7 @@
+I:\LikeLion\LikeLion\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+I:\LikeLion\LikeLion\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+I:\LikeLion\LikeLion\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+I:\LikeLion\LikeLion\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+I:\LikeLion\LikeLion\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+I:\LikeLion\LikeLion\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+I:\LikeLion\LikeLion\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

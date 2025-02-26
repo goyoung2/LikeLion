@@ -1,0 +1,7 @@
+I:\LikeLion\LikeLion\Day4_SelfProject\Day4_SelfProject\bin\Debug\Day4_SelfProject.exe.config
+I:\LikeLion\LikeLion\Day4_SelfProject\Day4_SelfProject\bin\Debug\Day4_SelfProject.exe
+I:\LikeLion\LikeLion\Day4_SelfProject\Day4_SelfProject\bin\Debug\Day4_SelfProject.pdb
+I:\LikeLion\LikeLion\Day4_SelfProject\Day4_SelfProject\obj\Debug\Day4_SelfProject.csproj.AssemblyReference.cache
+I:\LikeLion\LikeLion\Day4_SelfProject\Day4_SelfProject\obj\Debug\Day4_SelfProject.csproj.CoreCompileInputs.cache
+I:\LikeLion\LikeLion\Day4_SelfProject\Day4_SelfProject\obj\Debug\Day4_SelfProject.exe
+I:\LikeLion\LikeLion\Day4_SelfProject\Day4_SelfProject\obj\Debug\Day4_SelfProject.pdb

@@ -1,0 +1,7 @@
+I:\LikeLion\LikeLion\Day4_Bingo\Day4_Bingo\bin\Debug\Day4_Bingo.exe.config
+I:\LikeLion\LikeLion\Day4_Bingo\Day4_Bingo\bin\Debug\Day4_Bingo.exe
+I:\LikeLion\LikeLion\Day4_Bingo\Day4_Bingo\bin\Debug\Day4_Bingo.pdb
+I:\LikeLion\LikeLion\Day4_Bingo\Day4_Bingo\obj\Debug\Day4_Bingo.csproj.AssemblyReference.cache
+I:\LikeLion\LikeLion\Day4_Bingo\Day4_Bingo\obj\Debug\Day4_Bingo.csproj.CoreCompileInputs.cache
+I:\LikeLion\LikeLion\Day4_Bingo\Day4_Bingo\obj\Debug\Day4_Bingo.exe
+I:\LikeLion\LikeLion\Day4_Bingo\Day4_Bingo\obj\Debug\Day4_Bingo.pdb
