@@ -1,0 +1,7 @@
+I:\LikeLion\LikeLion\Day2Project5\Day2Project5\bin\Debug\Day2Project5.exe.config
+I:\LikeLion\LikeLion\Day2Project5\Day2Project5\bin\Debug\Day2Project5.exe
+I:\LikeLion\LikeLion\Day2Project5\Day2Project5\bin\Debug\Day2Project5.pdb
+I:\LikeLion\LikeLion\Day2Project5\Day2Project5\obj\Debug\Day2Project5.csproj.AssemblyReference.cache
+I:\LikeLion\LikeLion\Day2Project5\Day2Project5\obj\Debug\Day2Project5.csproj.CoreCompileInputs.cache
+I:\LikeLion\LikeLion\Day2Project5\Day2Project5\obj\Debug\Day2Project5.exe
+I:\LikeLion\LikeLion\Day2Project5\Day2Project5\obj\Debug\Day2Project5.pdb

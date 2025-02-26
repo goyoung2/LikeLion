@@ -1,0 +1,7 @@
+I:\LikeLion\LikeLion\Day3Blacksmith\Day3Blacksmith\obj\Debug\Day3Blacksmith.csproj.AssemblyReference.cache
+I:\LikeLion\LikeLion\Day3Blacksmith\Day3Blacksmith\obj\Debug\Day3Blacksmith.csproj.CoreCompileInputs.cache
+I:\LikeLion\LikeLion\Day3Blacksmith\Day3Blacksmith\bin\Debug\Day3Blacksmith.exe.config
+I:\LikeLion\LikeLion\Day3Blacksmith\Day3Blacksmith\bin\Debug\Day3Blacksmith.exe
+I:\LikeLion\LikeLion\Day3Blacksmith\Day3Blacksmith\bin\Debug\Day3Blacksmith.pdb
+I:\LikeLion\LikeLion\Day3Blacksmith\Day3Blacksmith\obj\Debug\Day3Blacksmith.exe
+I:\LikeLion\LikeLion\Day3Blacksmith\Day3Blacksmith\obj\Debug\Day3Blacksmith.pdb

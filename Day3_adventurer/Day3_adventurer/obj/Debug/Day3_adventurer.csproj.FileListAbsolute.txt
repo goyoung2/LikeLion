@@ -1,0 +1,7 @@
+I:\LikeLion\LikeLion\Day3_adventurer\Day3_adventurer\bin\Debug\Day3_adventurer.exe.config
+I:\LikeLion\LikeLion\Day3_adventurer\Day3_adventurer\bin\Debug\Day3_adventurer.exe
+I:\LikeLion\LikeLion\Day3_adventurer\Day3_adventurer\bin\Debug\Day3_adventurer.pdb
+I:\LikeLion\LikeLion\Day3_adventurer\Day3_adventurer\obj\Debug\Day3_adventurer.csproj.AssemblyReference.cache
+I:\LikeLion\LikeLion\Day3_adventurer\Day3_adventurer\obj\Debug\Day3_adventurer.csproj.CoreCompileInputs.cache
+I:\LikeLion\LikeLion\Day3_adventurer\Day3_adventurer\obj\Debug\Day3_adventurer.exe
+I:\LikeLion\LikeLion\Day3_adventurer\Day3_adventurer\obj\Debug\Day3_adventurer.pdb
